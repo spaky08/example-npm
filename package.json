@@ -20,5 +20,9 @@
   },
   "dependencies": {
     "manutoalap-calculator": "^1.0.2"
-  }
+  },
+  "homepage": "https://github.com/spaky08/example-npm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaky08/example-npm.git"
 }
